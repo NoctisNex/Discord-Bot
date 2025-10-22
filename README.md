@@ -4,7 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Discord.py](https://img.shields.io/badge/Discord.py-2.0+-green.svg)](https://github.com/Rapptz/discord.py)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Abandoned-red.svg)](README.md)
 
 A versatile Discord bot that combines moderation tools, fun commands, and music capabilities. This project represents my journey into Python development and Discord bot creation.
 
@@ -129,9 +129,9 @@ This project helped me understand:
 - Music functionality requires a separate Lavalink server
 - Some commands are specific to certain Discord servers/channels
 
-## 🤝 Contributing
+## ⚠️ Project Status
 
-Feel free to submit issues and enhancement requests! This project is a learning experience, so any feedback is welcome.
+**This project is abandoned and no longer maintained.** It was created as a learning exercise and is preserved for historical purposes.
 
 ## 📄 License
 
@@ -139,4 +139,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-*Built with ❤️ and lots of Python*
+*Built with ❤️ and lots of Python - My first big Python project*
